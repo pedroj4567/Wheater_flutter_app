@@ -1,3 +1,3 @@
-# weather_app
+# Weather app
 
-A new Flutter project.
+Aplicacion movile enfocada a la lectura de datos acerca del clima.
